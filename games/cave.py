@@ -1,2 +1,2 @@
 def startcavegame():
-    print("Under Construction...")
+    print("Next to be updated...")
